@@ -1,0 +1,18 @@
+input[type=text],[type=password]{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    color:black;
+    background-color: rgb(17, 224, 155);
+}
+input[type=text]:focus,[type=password]:focus{
+ background-color: burlywood;
+}
+.myClass{
+    color: red;
+    background-color: antiquewhite;
+}
+p.someClass{
+    color: black;
+    background-color: darkcyan;
+}
